@@ -1,0 +1,26 @@
+\\ilabss\home$\D01587896\My Documents\CIS170\CIS247_WK3_Lab_Bell\CIS247_WK3_Lab_Bell\bin\Debug\CIS247_WK3_Lab_Bell.exe
+\\ilabss\home$\D01587896\My Documents\CIS170\CIS247_WK3_Lab_Bell\CIS247_WK3_Lab_Bell\bin\Debug\CIS247_WK3_Lab_Bell.pdb
+\\ilabss\home$\D01587896\My Documents\CIS170\CIS247_WK3_Lab_Bell\CIS247_WK3_Lab_Bell\obj\x86\Debug\ResolveAssemblyReference.cache
+\\ilabss\home$\D01587896\My Documents\CIS170\CIS247_WK3_Lab_Bell\CIS247_WK3_Lab_Bell\obj\x86\Debug\CIS247_WK3_Lab_Bell.exe
+\\ilabss\home$\D01587896\My Documents\CIS170\CIS247_WK3_Lab_Bell\CIS247_WK3_Lab_Bell\obj\x86\Debug\CIS247_WK3_Lab_Bell.pdb
+F:\My Documents\CIS170\CIS247_WK3_Lab_Bell\CIS247_WK3_Lab_Bell\obj\x86\Debug\CIS247_WK3_Lab_Bell.exe
+F:\My Documents\CIS170\CIS247_WK3_Lab_Bell\CIS247_WK3_Lab_Bell\obj\x86\Debug\CIS247_WK3_Lab_Bell.pdb
+F:\My Documents\CIS170\CIS247_WK3_Lab_Bell\CIS247_WK3_Lab_Bell\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\My Documents\CIS170\CIS247_WK3_Lab_Bell\CIS247_WK3_Lab_Bell\bin\Debug\CIS247_WK3_Lab_Bell.exe
+F:\My Documents\CIS170\CIS247_WK3_Lab_Bell\CIS247_WK3_Lab_Bell\bin\Debug\CIS247_WK3_Lab_Bell.pdb
+C:\Users\rubellatl\Dropbox\CIS247\CIS247_WK3_Lab_Bell\CIS247_WK3_Lab_Bell\obj\x86\Debug\CIS247_WK3_Lab_Bell.exe
+C:\Users\rubellatl\Dropbox\CIS247\CIS247_WK3_Lab_Bell\CIS247_WK3_Lab_Bell\obj\x86\Debug\CIS247_WK3_Lab_Bell.pdb
+C:\Users\rubellatl\Dropbox\CIS247\CIS247_WK3_Lab_Bell\CIS247_WK3_Lab_Bell\bin\Debug\CIS247_WK3_Lab_Bell.exe
+C:\Users\rubellatl\Dropbox\CIS247\CIS247_WK3_Lab_Bell\CIS247_WK3_Lab_Bell\bin\Debug\CIS247_WK3_Lab_Bell.pdb
+C:\Users\rubellatl\Dropbox\CIS247\CIS247_WK3_Lab_Bell\CIS247_WK3_Lab_Bell\obj\x86\Debug\CIS247_WK3_Lab_Bell.csprojResolveAssemblyReference.cache
+C:\Samples\CIS247_WK3_Lab_Bell\CIS247_WK3_Lab_Bell\obj\x86\Debug\CIS247_WK3_Lab_Bell.exe
+C:\Samples\CIS247_WK3_Lab_Bell\CIS247_WK3_Lab_Bell\obj\x86\Debug\CIS247_WK3_Lab_Bell.pdb
+C:\Samples\CIS247_WK3_Lab_Bell\CIS247_WK3_Lab_Bell\bin\Debug\CIS247_WK3_Lab_Bell.exe
+C:\Samples\CIS247_WK3_Lab_Bell\CIS247_WK3_Lab_Bell\bin\Debug\CIS247_WK3_Lab_Bell.pdb
+C:\Samples\CIS247_WK3_Lab_Bell\CIS247_WK3_Lab_Bell\obj\x86\Debug\CIS247_WK3_Lab_Bell.csprojResolveAssemblyReference.cache
+C:\Users\rubellatl\Dropbox\Samples V2\CIS247_WK3_Lab_Bell\CIS247_WK3_Lab_Bell\obj\x86\Debug\CIS247_WK3_Lab_Bell.exe
+C:\Users\rubellatl\Dropbox\Samples V2\CIS247_WK3_Lab_Bell\CIS247_WK3_Lab_Bell\obj\x86\Debug\CIS247_WK3_Lab_Bell.pdb
+C:\Users\rubellatl\Dropbox\Samples V2\CIS247_WK3_Lab_Bell\CIS247_WK3_Lab_Bell\bin\Debug\CIS247_WK3_Lab_Bell.exe
+C:\Users\rubellatl\Dropbox\Samples V2\CIS247_WK3_Lab_Bell\CIS247_WK3_Lab_Bell\bin\Debug\CIS247_WK3_Lab_Bell.pdb
+C:\Users\rubellatl\Dropbox\Samples V2\CIS247_WK3_Lab_Bell\CIS247_WK3_Lab_Bell\obj\x86\Debug\CIS247_WK3_Lab_Bell.csprojResolveAssemblyReference.cache
+C:\Users\rubellatl\Dropbox\Samples V2\CIS247_WK3_Lab_Bell\CIS247_WK3_Lab_Bell\obj\x86\Debug\CIS247_WK3_Lab_Bell.csproj.CoreCompileInputs.cache
